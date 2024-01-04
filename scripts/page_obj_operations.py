@@ -5,9 +5,11 @@ import mechanicalsoup
 
 
 def get_proj_page(browser, proj_id):
-    url_proj = "https://intranet.hbtn.io/projects/" + proj_id
+    url_proj = "https://intranet.atlasschool.com/projects/" + proj_id
     browser.open(url_proj)
     page = browser.get_current_page()
+    # print(page)
+    # print(url_proj)
     return page
 
 def get_proj_title(soup):

@@ -23,7 +23,7 @@ from scripts.directory_operations import make_dir, make_readme
 
 
 def main():
-    base_url = "https://intranet.hbtn.io/"
+    base_url = "https://intranet.atlasschool.com/"
     browser = mechanicalsoup.StatefulBrowser(
         soup_config={'features': 'lxml'},
         raise_on_404=True,
