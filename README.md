@@ -1,3 +1,6 @@
+## Overview
+The project revolves around fundamental concepts of object-oriented programming (OOP) in Dart. It covers key topics such as class creation, encapsulation, inheritance, and data manipulation. Through a series of tasks, students explore the implementation of classes, methods, and properties, while adhering to principles of encapsulation by controlling access to data. The project progresses to demonstrate inheritance, showcasing how classes can extend functionality and share common attributes. Additionally, it delves into the handling of data structures such as JSON serialization and deserialization, illustrating practical applications of OOP in real-world scenarios. Overall, the project serves as a comprehensive introduction to OOP principles within the context of Dart programming, providing students with essential skills for building scalable and maintainable software solutions.
+## Tasks
 ###  0. Welcome.
 
 Creating a `User` class:
